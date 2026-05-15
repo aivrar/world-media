@@ -1,0 +1,13 @@
+{
+    "name": "World Media",
+    "title": "World Media — Free, open world media",
+    "distro": "Ubuntu",
+    "deps": "",
+    "setup": "bash /opt/app/setup.sh",
+    "start": "bash /opt/app/start.sh",
+    "port": 9123,
+    "width": 1280,
+    "height": 860,
+    "terminal": true,
+    "snapshot": false
+}

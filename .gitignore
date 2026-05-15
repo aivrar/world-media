@@ -1,0 +1,26 @@
+# Runtime state — generated per-install, not source
+wsl/
+cache/
+.setup-complete
+.setup.log
+.start.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Backups / scratch
+*.bak
+*.preicon.bak
+*.old
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor scratch
+.vscode/
+.idea/
+*.swp
